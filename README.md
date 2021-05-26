@@ -1,2 +1,20 @@
 # clone-netflix
-Clone do Netflix desenvolvido como Projeto da DIO
+
+The project was required as a task from "HTML Web Developer" bootcamp on Digital Innovation One
+
+
+
+<img scr="gifnetflix.gif">
+
+
+
+
+
+
+
+
+
+
+
+
+
