@@ -4,7 +4,7 @@ The project was required as a task from "HTML Web Developer" bootcamp on Digital
 
 
 
-<img scr="/img/gifnetflix.gif">
+<img src="/img/gifnetflix.gif">
 
 
 
